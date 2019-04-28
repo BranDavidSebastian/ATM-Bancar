@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1556476540 source:d:\facultate\bancomat\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<unistd.h>
+	<cstdlib>
+	<sstream>
+
